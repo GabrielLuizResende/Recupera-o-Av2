@@ -1,18 +1,18 @@
 body {
 margin: 0;
 font-family: Arial, Helvetica;
-background-color: #f1eaea;
+background-color: #020000;
 color: rgb(255, 255, 255);
 }
 header {
-background-color: rgba(172, 243, 202, 0);
+background-color: red);
 padding: 10px;
 text-align: center;
 font-size: 2em;
 font-weight: bold;
 }
 .banner {
-background-color: rgb(160, 20, 20);
+background-color: rgb(119, 31, 31);
 padding: 30px;
 display: flex;
 align-items: center;
